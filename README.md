@@ -37,4 +37,4 @@ Streamlit will display a local URL to open in your browser.
 
 The training script splits the data into training and test sets, applies median imputation and scaling through a scikit-learn pipeline, and evaluates the model using MAE, RMSE, and R².
 
-The included CSV contains generated sample data, so the results are illustrative rather than validated estimates for real students.
+ The included CSV contains generated sample data, so the results are illustrative rather than validated estimates for real  students.
